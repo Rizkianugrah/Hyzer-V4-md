@@ -272,16 +272,16 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ╰───⬣
 ┌───⬣
-│⬡ My Github : https://github.com/Hyzerr
-│⬡ My Instagram : hyzer_stfu
+│⬡ My Github : https://github.com/Gaara-Ofc
+│⬡ My Instagram : @gaara_xploite
 │⬡ My Group : 
-│https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV
-│⬡ *スパムしないでください*
+│https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm
+│⬡ *𝑌 𝑢 𝑡 𝑎 𝑀 𝐷*
 ╰────────────────⬣
 `,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "Created By Hyzer Official\n>‿‿<",
+            footerText: "Created By Gaara Setyawan\n>‿‿<",
             mtype: 'listMessage',
             sections: [
               {
