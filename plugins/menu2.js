@@ -32,7 +32,7 @@ const defaultMenu = {
   before: `
 ┏━━「 ${wm} 」━⬣
 ┃⬡📊 *Version*: %version
-┃⬡🗃️ *Lib*: Baileys-MD
+┃⬡🗃️ *Lib*: Yusuf-MD
 ┃⬡🧪 *Mode:* ${global.opts['self'] ? 'Self' : 'publik'}
 ┃⬡⏰ *Uptime:* %uptime
 ┗⬣
@@ -179,7 +179,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
              {
              urlButton: {
                displayText: 'Owner',
-               PhoneNumber: 'https://wa.me/201507384088'
+               PhoneNumber: 'https://wa.me/6281387089252'
              }
 
            },
