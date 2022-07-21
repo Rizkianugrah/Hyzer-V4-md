@@ -13,7 +13,8 @@ let esce = `
 Hai Sayangku ${ye} Lagi Nyari Sc Botku Ya:v
 
 Nih Link Sc Nya Dibawah :
-https://github.com/Gaara-Ofc/
+https://github.com/nisabot/
+https://trakteer.id/botannisa
 
 _*Jangan Lupa Di Fork Dan Kasih Star :3*_
 _*Maaf Kalau Jelek Ya Banh_`
