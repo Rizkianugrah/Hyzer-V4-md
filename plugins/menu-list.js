@@ -45,7 +45,7 @@ ${ucapan()} %name
 
 「 *I N F O* 」
 ☂︎ *Bot Name:* ${wm}
-☂︎ *Lib*: Baileys-MD
+☂︎ *Lib*: Yusuf-MD
 ☂︎ *${Object.keys(global.db.data.users).length}* *Pengguna*
 ☂︎ *Prefix:* [. / #]
 ☂︎ *Uptime:* %uptime
@@ -272,16 +272,16 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ╰───⬣
 ┌───⬣
-│⬡ My Github : https://github.com/Gaara-Ofc
-│⬡ My Instagram : @gaara_xploite
+│⬡ My Github : https://github.com/nisabot
+│⬡ My Instagram : @maulana_yusuf.id
 │⬡ My Group : 
-│https://chat.whatsapp.com/CCyaeuaLuUbAmWCvQvFJLm
-│⬡ *𝑌 𝑢 𝑡 𝑎 𝑀 𝐷*
+│https://chat.whatsapp.com/CWvL3sXIBPV1urCTauDTPZ
+│⬡ *𝑌 𝑢suf 𝑀 𝐷*
 ╰────────────────⬣
 `,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "Created By Gaara Setyawan\n>‿‿<",
+            footerText: "Created By 𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯\n>‿‿<",
             mtype: 'listMessage',
             sections: [
               {
