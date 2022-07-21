@@ -10,14 +10,14 @@ let anu = `*─────� DONATE 」 ───*
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├📌Telkomsel: 081326024103
+├📌Telkomsel: 081387089252
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
 Arigatou!
 
 Contact person Owner:
-wa.me/+201507384088 (Owner)
+6281387089252 (Owner)
 
 *donasi via follow ig juga boleh*`
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
