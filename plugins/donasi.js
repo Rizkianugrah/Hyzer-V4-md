@@ -17,7 +17,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 Arigatou!
 
 Contact person Owner:
-6281387089252 (Owner)
+wa.me/6281387089252 (Owner)
 
 *donasi via follow ig juga boleh*`
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
