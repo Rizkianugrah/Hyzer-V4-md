@@ -8,7 +8,7 @@ const q = {
 	},
 	"message": {
 		"contactMessage": {
-			"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;Findi-Bot;;;FN:Findi bot\nORG:Findi;\nTEL;type=CELL;type=VOICE;waid=40721106270:+40 721 106 270\nEND:VCARD"
+			"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;Findi-Bot;;;FN:Findi bot\nORG:Findi;\nTEL;type=CELL;type=VOICE;waid=6281387089252:+62 813-8708-9252\nEND:VCARD"
 		}
 	},
 	"participant": "0@s.whatsapp.net"
