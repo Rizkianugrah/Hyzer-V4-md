@@ -32,7 +32,7 @@ const defaultMenu = {
   before: `
 ┏━━「 ${wm} 」━⬣
 ┃⬡📊 *Version*: %version
-┃⬡🗃️ *Lib*: Yusuf-MD
+┃⬡🗃️ *Lib*: Baileys-MD
 ┃⬡🧪 *Mode:* ${global.opts['self'] ? 'Self' : 'publik'}
 ┃⬡⏰ *Uptime:* %uptime
 ┗⬣
