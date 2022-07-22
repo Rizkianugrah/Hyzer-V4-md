@@ -68,7 +68,7 @@ global.author = `𝑌𝑢suf 𝑀𝐷
 
 
 
-ig: maulana_yusuf.id`
+ig: senpai_chan_gemoy`
 global.wm = '𝑌𝑢suf 𝑀𝐷'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
