@@ -45,7 +45,7 @@ ${ucapan()} %name
 
 「 *I N F O* 」
 ☂︎ *Bot Name:* ${wm}
-☂︎ *Lib*: Yusuf-MD
+☂︎ *Lib*: Baileys-MD
 ☂︎ *${Object.keys(global.db.data.users).length}* *Pengguna*
 ☂︎ *Prefix:* [. / #]
 ☂︎ *Uptime:* %uptime
