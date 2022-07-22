@@ -11,6 +11,7 @@ Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
 ├📌Telkomsel: 081387089252
+├📌 Ovo : 083199789390
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
