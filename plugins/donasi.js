@@ -29,8 +29,8 @@ wa.me/6281387089252 (Owner)
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '📍instagram',
-               url: instagram
+               displayText: 'GROUP WA BOT',
+               url: https: 'https://chat.whatsapp.com/CWvL3sXIBPV1urCTauDTPZ',
              }
 
            },
